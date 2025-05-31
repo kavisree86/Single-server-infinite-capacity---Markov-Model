@@ -13,17 +13,19 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 This is a queuing model in which the arrival is Marcovian and departure distribution is also Marcovian,number of server is one and size of the queue is also Marcovian,no.of server is one and size of the queue is infinite and service discipline is 1st come 1st serve(FCFS) and the calling source is also finite.
 
 ## Procedure :
-
 ![imAGE](2.png)
 
 
 
 ## Experiment:
 
+![290968084-ef074fab-943a-46e9-ab50-e61a17b45267](https://github.com/user-attachments/assets/c66c19c1-bcf2-4f27-99a1-74021e126a6a)
 
  
 ## Program
-![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
+Developed by : Kavisree S
+
+Register number : 212222047001
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
